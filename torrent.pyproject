@@ -1,6 +1,9 @@
 {
     "files": [
         "main.py",
-        "main.qml"
+        "main.qml",
+        "qml/components/buttons/top_bar.qml",
+        "qml/pages/main_page.qml"
     ]
 }
+
